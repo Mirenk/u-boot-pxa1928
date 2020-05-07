@@ -230,6 +230,6 @@
 
 #define CONFIG_MD5
 #define CONFIG_RSA
-#define CONFIG_STOP_AUTH_ERROR
+/*#define CONFIG_STOP_AUTH_ERROR*/
 
 #endif	/* __CONFIG_PXA1928_H */
